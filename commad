@@ -1,0 +1,10 @@
+# If a Streamlit process is running, stop it first (Ctrl+C in the Streamlit terminal)
+
+# Activate venv if not active
+. .\.venv\Scripts\Activate.ps1
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run app.py
