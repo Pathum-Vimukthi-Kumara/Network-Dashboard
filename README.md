@@ -247,4 +247,9 @@ Network DashBoard/
 ### 💾 File/Storage Issues
 - **PCAP read errors**: Confirm file is valid PCAP/PCAPNG format
 - **MongoDB connection failed**: Check URI format, URL-encode special characters
-- **Large files slow**: Start with smaller captures to test thresholds
+- **Large files slow**: Start with smaller captures to test thresholds\
+
+  
+## 👨‍💻 About the Creator
+
+**Hey there! I'm Pathum Vimukthi** - a passionate cybersecurity enthusiast and full-stack developer with a focus on network security. I built this tool to solve real-world DDoS detection challenges I encountered while managing high-traffic applications and infrastructure.
